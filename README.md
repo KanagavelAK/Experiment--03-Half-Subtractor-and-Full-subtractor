@@ -1,5 +1,5 @@
-# Name: MUKESH R
-# Register Number: 23006020
+# Name: KANAGAVEL AK
+# Register Number: 212223230096
 # Experiment:03 Half Subtractor and Full subtractor
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
